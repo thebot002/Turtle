@@ -2,7 +2,6 @@ Set-Location ($PSScriptRoot + "\src")
 $DesktopPath = [Environment]::GetFolderPath("Desktop")
 
 $Exercise_folder = $DesktopPath + "\Turtle_exercise"
-#$Exercise_folder = $PSScriptRoot + "\out"
 
 javac -d $Exercise_folder *.java
 

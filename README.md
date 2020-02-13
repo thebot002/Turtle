@@ -1,9 +1,9 @@
 # Turtle
-Bachelor Open Day programming exercise
+Bachelor Open Day programming exercise - Linux version
 
 ## How to use:
 
-Keep the master files on a usb stick (or else) and run "install.ps1" in order to generate the exercise folder on the desktop of the computer.
+Keep the master files on a usb stick (or else) and run "install.sh" in order to generate the exercise folder on the desktop of the computer.
 
 After every session, re-run install to overwrite files that have been worked on.
 
